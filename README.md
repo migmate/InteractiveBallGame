@@ -1,4 +1,4 @@
-# Bouncing Ball Game - A P5.js Creation
+# Interactive Ball Game - A P5.js Creation
 
 Dive into the enthralling world of the Bouncing Ball Game, a rendition inspired by this classic: Bouncing Ball on YouTube. Comprising five distinct scenes - a splash screen, a vibrant main menu, two challenging game levels, and a leaderboard - each scene seamlessly transitions to the other, offering a cohesive gaming experience.
 
