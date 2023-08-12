@@ -1,0 +1,45 @@
+{
+	"brick": {
+		"Height": [25],
+		"Width": [25]
+	},
+
+	"player": {
+		"Height": [25],
+		"Width": [25],
+		"Scale": [0.3],
+		"Speed": [0.12, 90] 
+	},
+
+	"spike": {
+		"Height": [25],
+		"Width": [25],
+		"Scale": [0.2, 0.3]
+	},
+
+	"coin": {
+		"Location1": [50, 90, 0, 0],
+		"Location2": [450,150, 0, 0],
+		"Location3": [125, 350, 0, 0],
+		"Location4": [815, 400, 0, 0]
+		
+	},
+
+	"enemy": {
+		"Sprite": [825, 455, 0, 0],
+		"Width": [25],
+		"Scale": [0.2],
+		"Speed": [1, 360]
+	},
+
+	"door": {
+		"Height": [25],
+		"Width": [25]
+
+	},
+	
+
+	"scores": {
+		"scoreSet": [500, 400, 300, 200, 100]
+	}
+}
